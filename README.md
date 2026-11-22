@@ -44,3 +44,7 @@ In [Orca](https://github.com/stablyai/orca), install the official Excalidraw plu
 ```bash
 node --test tests/excalidraw.test.mjs
 ```
+
+## License
+
+[MIT](LICENSE): use it however you like.
